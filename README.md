@@ -50,4 +50,4 @@ Python · pandas · matplotlib · seaborn · scikit-learn · joblib · Google Ge
 4. Open `Fleet_Copilot_Agent.ipynb`, upload `ship_clustered.csv` and `ship_clusters.joblib`, and run cell by cell
 
 ## 👤 Author
-Sivaa Sudarson.S · [LinkedIn]([<your LinkedIn link>](https://www.linkedin.com/in/sivaa-sudarson-548271341)) · sivaasudarson2002@gmail.com
+Sivaa Sudarson.S · [LinkedIn](https://www.linkedin.com/in/sivaa-sudarson-548271341) · sivaasudarson2002@gmail.com
